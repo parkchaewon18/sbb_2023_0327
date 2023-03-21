@@ -1,6 +1,7 @@
 package com.mysite.sbb;
 
 import jakarta.persistence.*;
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 
